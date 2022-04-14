@@ -5,4 +5,11 @@
     text-align: center;
     align-items: center;
     padding: 30px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.6);
+    transition: 0.3s;
+    
+}
+.single_service:hover{
+
+    box-shadow: 0 8px 16px 0 rgba(51, 154, 121, 0.5);
 }
